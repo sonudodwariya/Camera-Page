@@ -111,7 +111,7 @@
 
 @media (max-width:768px) {
     .sidebar_menu{
-        width: 75vw;
+        width: 200px;
     }
     .btn_one i{
         font-size: 22px;
@@ -122,7 +122,7 @@
 }
      .sidebar_menu .btn_two i{
         font-size: 22px;
-        left: 100px;
+        left: 170px;
     }
     .btn_two i:hover{
     font-size: 30px;
